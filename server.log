@@ -1,0 +1,57 @@
+Server listening on 0.0.0.0:12345
+New connection: id=1 peer=127.0.0.1:11661
+Message from Ruslan (id=1): s
+Message from Ruslan (id=1): ghello
+New connection: id=2 peer=127.0.0.1:52376
+Message from Arimna[C[C (id=2): sdsds
+Message from Arimna[C[C (id=2): /quit
+[SERVER] Arimna[C[C (id=2) disconnected
+[SERVER] Ruslan (id=1) disconnected
+Server listening on 0.0.0.0:12345
+New connection: id=1 peer=127.0.0.1:58407
+Error reading from Ruslan (id=1): stream did not contain valid UTF-8
+[SERVER] Ruslan (id=1) disconnected
+New connection: id=2 peer=127.0.0.1:58419
+Message from Ruslan (id=2): hello
+New connection: id=3 peer=127.0.0.1:58421
+Message from Oleg (id=3): ghello
+Message from Oleg (id=3): hpwow are you?
+Message from Ruslan (id=2): i'n ,mm[C[Cgssdsdsdsdi;m'm good thx
+[SERVER] Ruslan (id=2) disconnected
+Server listening on 0.0.0.0:12345
+New connection: id=1 peer=127.0.0.1:31164
+Error reading from Ruslan (id=1): stream did not contain valid UTF-8
+[SERVER] Ruslan (id=1) disconnected
+New connection: id=2 peer=127.0.0.1:31167
+Message from Ruslan (id=2): Hello
+New connection: id=3 peer=127.0.0.1:31171
+Message from Huy (id=3): poka
+Message from Ruslan (id=2): poshel nahui
+[SERVER] Huy (id=3) disconnected
+[SERVER] Ruslan (id=2) disconnected
+Server listening on 0.0.0.0:12345
+New connection: id=1 peer=127.0.0.1:13010
+Message from ss (id=1): hello
+Message from ss (id=1): /list
+Message from ss (id=1): ./s
+Message from ss (id=1): /list
+[SERVER] ss (id=1) disconnected
+Server listening on 0.0.0.0:12345
+New connection: id=1 peer=127.0.0.1:52064
+Message from hello! (id=1): /quiyt
+Message from hello! (id=1): ./quit
+Message from hello! (id=1): /quit
+Message from hello! (id=1): /quit
+[SERVER] hello! (id=1) disconnected
+New connection: id=2 peer=127.0.0.1:52067
+Message from Ruslan (id=2): Hellio!
+[SERVER] Ruslan (id=2) disconnected
+Server listening on 0.0.0.0:12345
+New connection: id=1 peer=127.0.0.1:12572
+Server listening on 0.0.0.0:12345
+New connection: id=1 peer=127.0.0.1:49750
+New connection: id=2 peer=127.0.0.1:51314
+Message from Oksana (id=2): Hellop
+Message from Ruslan (id=1): Hello Oksana!
+Message from Oksana (id=2): can you help me with his wwwcompilation>?
+Message from Ruslan (id=1): yeah!
